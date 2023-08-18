@@ -43,30 +43,30 @@ The app adopts the MVVM architectural pattern, which is particularly well-suited
 
 ### Steps:
 
-1. **Getting the Project**:
+#### Getting the Project:
 
-#### Option 1: Clone the Repository
+##### Option 1: Clone the Repository
 
 1. Open Terminal and run the following command to clone the repository:
    ```bash
    git clone git@github.com:vgutierrez542/CashAppStocks.git
    ```
 
-#### Option 2: Download from GitHub Website
+##### Option 2: Download from GitHub Website
 
-1. Navigate to the project's GitHub repository: [CashAppStocks on GitHub](https://github.com/vgutierrez542/CashAppStocks)
-2. Click on the green `Code` button.
-3. In the dropdown, click `Download ZIP`.
-4. Once downloaded, extract the ZIP file to your desired location.
+  1. Navigate to the project's GitHub repository: [CashAppStocks on GitHub](https://github.com/vgutierrez542/CashAppStocks)
+  2. Click on the green `Code` button.
+  3. In the dropdown, click `Download ZIP`.
+  4. Once downloaded, extract the ZIP file to your desired location.
 
-2. **Open the Project in Xcode**:
+#### Open the Project in Xcode:
    Navigate to the directory where you cloned/downloaded the repository and open the `.xcodeproj` file.
 
-3. **Select a Device or Simulator**:
+#### Select a Device or Simulator:
    In Xcode, at the top of the window, you'll see a dropdown menu where you can select a target device or simulator. Choose the device you want to run the app on.
 
-4. **Run the App**:
+#### Run the App:
    Press the "Play" button (▶️) at the top-left corner of Xcode or use the shortcut `Cmd + R` to build and run the app. The app will launch on your selected device or simulator.
 
-5. **Explore**:
+#### Explore:
    Once the app is running, you can interact with it on your device or simulator.
